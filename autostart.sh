@@ -6,3 +6,6 @@ feh --bg-fill ~/Downloads/a.jpeg
 
 # run slstatus
 slstatus &
+
+# run picom
+picom -b
