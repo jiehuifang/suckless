@@ -70,5 +70,8 @@ static const struct arg args[] = {
 	{ netspeed_rx, " %-9s", "wlan0" },
 	{ cpu_perc, "ﴮ %-4s", NULL },
 	{ ram_used, " %-10s", NULL  },
+	{ battery_perc, "  %s%% ", "BAT1"  },
+	{ wifi_essid, " %s ", "wlan0"  },
+	{ wifi_perc, "%s%% ", "wlan0"  },
 	{ datetime, "ﮮ %s ", "%F %T" },
 };
