@@ -12,4 +12,5 @@
 * `hidecursor`，#隐藏光标
 * `alpha`，#透明化
 * `anysize`，#边框适配
+* `nordtheme`，#美化主题
 
