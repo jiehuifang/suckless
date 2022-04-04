@@ -1,4 +1,5 @@
 # xrandr settings
+# xrandr --output Virtual-1 --off
 xrandr --output Virtual-1 --mode 1920x1080 --rate 60
 
 # set background
@@ -9,3 +10,6 @@ slstatus &
 
 # run picom
 picom -b
+
+# run fcitx5
+fcitx5 -d
